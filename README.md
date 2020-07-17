@@ -1,5 +1,5 @@
 ## Hi, I am Leszek Korzan 👋 and Front-End Development is my passion.
-![Cover](/github-cover.png)
+![Cover](https://github.com/leszekkorzan/leszekkorzan/blob/master/github-cover.png)
 
 - ⚡ favourite web technology: **React.js**
 ### Find me
