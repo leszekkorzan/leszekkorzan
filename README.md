@@ -5,4 +5,4 @@
 ### Find me
 * checkout my [portfolio website](https://leszekk.eu)
 * visit my profile on [Twitter](https://twitter.com/leszekkorzan)
-* or [LinkedIn](https://www.linkedin.com/in/leszekkorzan)
+* or [LinkedIn](https://www.linkedin.com/in/leszek-korzan)
